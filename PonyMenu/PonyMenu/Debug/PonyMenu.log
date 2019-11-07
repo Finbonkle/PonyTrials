@@ -1,0 +1,6 @@
+﻿  uic mainwindow.ui
+  mainwindow.cpp
+C:\Users\t_bal\source\repos\PonyMenu\PonyMenu\mainwindow.cpp(29,20): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\t_bal\source\repos\PonyMenu\PonyMenu\mainwindow.cpp(29,26): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\t_bal\source\repos\PonyMenu\PonyMenu\mainwindow.cpp(30,24): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+  PonyMenu.vcxproj -> C:\Users\t_bal\source\repos\PonyMenu\Win32\Debug\PonyMenu.exe
